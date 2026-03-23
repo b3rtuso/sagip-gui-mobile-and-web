@@ -1,0 +1,102 @@
+Create a mobile application UI design in Figma for a responder-only disaster management app called:
+
+"Sagip Balayan Responder App"
+
+The application will be used by emergency responders from the MDRRMO of Balayan, Batangas to receive incident alerts, view emergency details, and update response status while in the field.
+
+Design Requirements:
+
+* Mobile-first UI
+* Frame size: 390px × 844px (modern smartphone)
+* Clean, simple interface for emergency use
+* Blue, white, and light gray color palette
+* Large buttons and clear text for quick interaction
+* Card-based layout for incidents
+* Bottom navigation bar for easy access
+* Professional government-style design
+
+Create the following mobile screens:
+
+1. Splash Screen
+
+* App logo
+* App name: Sagip Balayan Responder
+* Tagline: Emergency Response System
+
+2. Login Screen
+
+* Username field
+* Password field
+* Login button
+* Simple and centered layout
+
+3. Home Dashboard
+
+* Greeting message (e.g., "Welcome, Responder")
+* Status card showing:
+
+  * Assigned Incidents
+  * Active Responses
+  * Completed Responses
+* Quick action buttons:
+
+  * View Assigned Incidents
+  * Update Status
+* Notification section for new incidents
+
+4. Assigned Incidents Screen
+
+* Scrollable list of incident cards
+  Each card should show:
+* Incident type (Fire, Flood, Accident, etc.)
+* Barangay location
+* Priority level (High / Medium / Low)
+* Dispatch status
+* Time reported
+
+5. Incident Details Screen
+
+* Full incident information:
+
+  * Incident type
+  * Location (Barangay)
+  * Description
+  * Priority level
+  * Assigned team
+  * Equipment assigned
+* Buttons for responders:
+
+  * Accept Incident
+  * Mark "On Scene"
+  * Mark "Resolved"
+
+6. Response Update Screen
+
+* Status dropdown:
+
+  * En Route
+  * On Scene
+  * Situation Controlled
+  * Resolved
+* Field for response notes
+* Upload photo option
+* Submit update button
+
+7. Incident History Screen
+
+* List of completed incidents handled by the responder
+* Show date, incident type, and response time
+
+8. Profile Screen
+
+* Responder name
+* Role
+* Assigned team
+* Logout button
+
+Navigation:
+
+* Bottom navigation bar with icons:
+  Home | Incidents | History | Profile
+
+Ensure the interface is optimized for responders working in emergency situations, with clear hierarchy, large buttons, and quick access to incident updates.

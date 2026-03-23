@@ -1,0 +1,90 @@
+Design a modern mobile application UI in Figma for a disaster reporting app called **“Sagip Balayan”**. The mobile app will be used by residents of Balayan, Batangas to report emergencies and disasters directly to the MDRRMO.
+
+Design Style:
+
+* Clean emergency-response style interface
+* Blue, red, and white color scheme
+* Mobile-first layout (Android/iOS)
+* Simple and easy-to-use interface for citizens
+* Large buttons for quick emergency reporting
+* Modern icons and card-based design
+
+Create the following mobile app screens:
+
+1. **Splash Screen**
+
+* App logo
+* Title: Sagip Balayan
+* Subtitle: Disaster Reporting and Emergency Assistance
+* Clean minimal design
+
+2. **Login / Sign Up Screen**
+
+* Phone number or email login
+* Password field
+* Login button
+* Sign up option
+* Forgot password link
+
+3. **Home Dashboard**
+
+* Emergency quick action buttons:
+
+  * Report Fire
+  * Report Flood
+  * Report Accident
+  * Report Landslide
+  * Medical Emergency
+* “Report New Incident” main button
+* View recent alerts from MDRRMO
+* Safety tips section
+
+4. **Report Incident Screen**
+
+* Incident Type selection
+* Description text field
+* Location detection using GPS
+* Barangay dropdown
+* Upload photo button
+* Submit report button
+
+5. **AI Incident Prediction Panel**
+
+* Display predicted incident category
+* Display priority level (High, Medium, Low)
+* Show confirmation message after submission
+
+6. **Incident Status Tracking Screen**
+
+* List of submitted reports
+* Status indicators:
+
+  * Pending
+  * Verified
+  * Response Team Dispatched
+  * Resolved
+* Incident details page
+
+7. **Emergency Hotline Screen**
+
+* One-tap call buttons for:
+
+  * MDRRMO
+  * Fire Department
+  * Police
+  * Ambulance
+
+8. **Notifications Screen**
+
+* Disaster alerts
+* Weather warnings
+* Evacuation notices
+
+9. **Profile Screen**
+
+* User name
+* Contact number
+* Address / Barangay
+* Report history
+
+Design the interface as a **mobile prototype with multiple frames**, consistent spacing, icons, and clear navigation using a bottom navigation bar with icons: Home, Report, Alerts, Profile.
