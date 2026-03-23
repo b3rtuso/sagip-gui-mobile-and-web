@@ -177,7 +177,7 @@ export function Analytics() {
 
             <Card className="rounded-2xl shadow-sm border-0">
               <CardHeader className="pb-2">
-                <CardTitle className="text-base">Requests Per Day/Week</CardTitle>
+                <CardTitle className="text-base">Requests Per Month</CardTitle>
               </CardHeader>
               <CardContent>
                 <ResponsiveContainer width="100%" height={300}>
