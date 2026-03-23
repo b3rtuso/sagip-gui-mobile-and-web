@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useNavigate } from "react-router";
 import { Mail, Lock, User, ArrowRight, Loader2, Eye, EyeOff } from "lucide-react";
 import { ImageWithFallback } from "../figma/ImageWithFallback";
-import logoImage from "figma:asset/4558e936a223c460ebc16418eb91c5d11f0dc10e.png";
+import logoImage from "../../../assets/logo.png";
 
 export function MobileLogin() {
   const navigate = useNavigate();

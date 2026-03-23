@@ -19,7 +19,7 @@ import { useState } from "react";
 import { useStore } from "../store";
 import { toast } from "sonner";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import logoImage from "figma:asset/4558e936a223c460ebc16418eb91c5d11f0dc10e.png";
+import logoImage from "../../assets/logo.png";
 
 export function Root() {
   const location = useLocation();

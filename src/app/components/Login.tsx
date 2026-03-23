@@ -4,7 +4,7 @@ import { Lock, Mail, ArrowRight } from "lucide-react";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import logoImage from "figma:asset/4558e936a223c460ebc16418eb91c5d11f0dc10e.png";
+import logoImage from "../../assets/logo.png";
 
 export function Login() {
   const navigate = useNavigate();
